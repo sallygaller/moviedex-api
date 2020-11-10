@@ -8,6 +8,9 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
+  "engines": {
+    "node": "12.18.3"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -21,3 +24,4 @@
     "nodemon": "^2.0.6"
   }
 }
+
